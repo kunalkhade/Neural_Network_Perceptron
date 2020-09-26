@@ -4,10 +4,10 @@ Neural_Network_Perceptron
 ## Description 
 Develop generic binary classifier perceptron class in ML.py. It has to take
 training set of any size. Class must include four functions : 
-### init ()
-### fit() 
-### net input()
-### predict()
+##### init ()
+##### fit() 
+##### net input()
+##### predict()
 
 For this experiment iris data set is used which is very common for machine
 learning. Data set consist of 3 different flowers setosa, versicolor and virginica.
